@@ -1,0 +1,20 @@
+[user]
+	name = Igor Pchelnikov
+	email = gopchelnikov@gmail.com
+	password = pass
+[color]
+	ui = true
+[credential]
+	helper = store
+[log]
+	abbrevcommit = yes
+[core]
+	abbrev = 8
+	editor = vim
+[http]
+	proxy = https://name:pass@srv:8080
+	sslVerify = false
+	proxyAuthMethod = basic
+[https]
+	proxy = https://name:pass@srv:8080
+	sslVerify = false
